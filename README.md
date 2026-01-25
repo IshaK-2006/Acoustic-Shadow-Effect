@@ -31,9 +31,10 @@ The raw audio project file (`.aup3`) and processed SPL data (`.csv`) are include
 ## Data Analysis
 The analysis focuses on attenuation relative to the direct (unobstructed) case, defined as:
 
-\[
-\Delta \mathrm{SPL} = \mathrm{SPL}_{\text{material}} - \mathrm{SPL}_{\text{direct}}
-\]
+Attenuation is defined as:
+
+ΔSPL = SPL_material − SPL_direct
+
 
 This approach isolates the acoustic shadowing contribution of each material.
 
