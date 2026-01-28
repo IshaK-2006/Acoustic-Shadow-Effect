@@ -48,8 +48,8 @@ This approach isolates the acoustic shadowing contribution of each material.
 
 ## Results
 The materials exhibit different levels of attenuation, consistent with qualitative expectations based on their acoustic properties:
-- Cotton shows higher attenuation, consistent with porous absorption.
-- Cardboard and plastic show comparatively lower attenuation, consistent with partial reflection and transmission.
+- Cotton shows moderate attenuation, consistent with porous absorption.
+- Cardboard and plastic show significantly higher attenuation, consistent with partial reflection and transmission.
 
 Final plots and figures are compiled in:
 - `results/Acoustic_Shadow_Effect.pdf`
