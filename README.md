@@ -24,7 +24,7 @@ The study focuses on **relative attenuation** rather than absolute SPL values, u
 - Recordings were made using **Audacity** and exported for analysis.
 - Broadband Sound Pressure Level (SPL) values were extracted from the recordings.
 
-The raw audio project file (`.aup3`) and processed SPL data (`.csv`) are included for transparency and reproducibility.
+The raw audio project file (`.aup3`)  are included for transparency; analysis and conclusions are based on extracted SPL values provided in CSV format which are processed SPL data (`.csv`) for transparency and reproducibility.
 
 ---
 
